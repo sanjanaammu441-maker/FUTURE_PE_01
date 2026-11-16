@@ -393,6 +393,9 @@ Look Good. Feel Great. Be Confident.
 [Visit Our Salon]
 
 Website suggestion: Organise these five categories into separate sections with attractive salon-related photographs and clear booking buttons. This will make your Services Page look professional and easy to navigate.
+
+07 - CTA Prompt
+
 Act as a professional website copywriter and marketing expert.
 
 Create attractive and persuasive Call-to-Action (CTA) content for:
@@ -428,7 +431,9 @@ Writing Style:
 Make the CTA content suitable for a professional beauty salon website.
 
 Do not invent phone numbers, discounts or promotional offers.
+
 08 - CTA Output 
+
 ALPHA BEAUTY UNISEX SALON
 
 Your Beauty, Your Style, Your Confidence!
@@ -546,6 +551,7 @@ Use these three main CTA buttons consistently:
 	1.	BOOK AN APPOINTMENT – On the homepage banner.
 	2.	EXPLORE SERVICES – Below the services introduction.
 	3.	CONTACT US – At the bottom of the website.
+
 09 - Tone variations prompt
 
 Act as a professional website copywriter.
@@ -580,7 +586,9 @@ Requirements:
 	•	Use simple and correct English.
 	•	Make the content suitable for a beauty salon website.
 	•	Do not invent business information or offers.
+
 10 - Tone variations Output
+
 1. Professional Tone
 
 Homepage Headline:
@@ -662,6 +670,7 @@ CTA Buttons:
 	1.	Book Now
 	2.	View Services
 	3.	Contact Us
+
 11 - Project File Structured
 
 AI-WEBSITE-COPY-GENERATOR
