@@ -15,7 +15,9 @@ Location: Shivamogga, Karnataka, India.
 AI Tool: ChatGPT
 
 Repository Platform: GitHub
+
 02 -Main Structured Prompt
+
 ROLE:
 Act as an expert website copywriter and prompt engineer.
 
@@ -50,7 +52,9 @@ IMPORTANT:
 Avoid generic content. Make the website copy specific to the selected business. Do not invent unverified business details, contact numbers, prices or qualifications.
 
 Make the final content suitable for a real business website.
+
 03 - Homepage prompt
+
 Act as a professional website copywriter.
 
 Create attractive and professional homepage content for:
@@ -81,7 +85,9 @@ Writing Style:
 Make the content unique to this salon and suitable for a real business website.
 
 Do not invent prices, phone numbers or unverified business claims.
+
 04 - Homepage Output 
+
 ALPHA BEAUTY UNISEX SALON
 
 Your Beauty, Your Style, Your Confidence!
@@ -198,8 +204,10 @@ Button	Purpose
 Book an Appointment	Help customers book a visit
 Explore Services	View available salon services
 Contact Us	Get in touch with the salon
-Visit Our Salon	Find the salon locati
+Visit Our Salon	Find the salon location 
+
 05 - Service page prompt 
+
 Act as a professional website copywriter.
 
 Create an attractive and professional Services Page for:
@@ -232,7 +240,9 @@ Also include:
 Make the content customer-friendly, organised and suitable for a professional salon website.
 
 Do not invent prices or unverified service claims.
+
 06 - Service Page Output
+
 BEAUTY UNISEX SALON
 Your Beauty, Your Style, Your Confidence!
 
